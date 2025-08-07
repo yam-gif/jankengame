@@ -1,0 +1,48 @@
+/* style.css */
+body {
+    font-family: sans-serif;
+    background-color: #f0f0f0;
+  }
+  
+  .header {
+    color: #333;
+    border:5px solid black;
+  }
+
+  .handExplanation{
+    border-bottom:5px solid black;
+  }
+
+  .jankenImage{
+    height:300px;
+    width:300px;
+    padding-top:50px;
+    padding-left:100px;
+  }
+
+  .header{
+    height:90px;
+  }
+
+  .main{
+    height:800px;
+  }
+
+  .footer{
+    height:270px;
+  }
+
+  .optionHand{
+    padding:10px;
+    font-size:20px;
+    color: red;
+  }
+
+  .selectJanken{
+    padding : 10px;
+  }
+
+  .submitJanken{
+    padding : 10px;
+    background-color : gray;
+  }
